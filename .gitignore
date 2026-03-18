@@ -1,0 +1,7 @@
+*.csv
+*.png
+_pycache_/
+venv311/
+.cache/
+output/
+*.zip
